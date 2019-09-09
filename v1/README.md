@@ -1,4 +1,4 @@
-# Retweet dataset
+# Retweet Dataset
 
 This dataset contains tweet and retweet interactions by users. Seed user for the crawl was [Neil deGrasse Tyson](https://twitter.com/neiltyson).
 
