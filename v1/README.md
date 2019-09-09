@@ -1,4 +1,4 @@
-## Retweet dataset
+# Retweet dataset
 
 This dataset contains tweet and retweet interactions by users. Seed user for the crawl was [Neil deGrasse Tyson](https://twitter.com/neiltyson).
 
@@ -10,9 +10,16 @@ For each user:
 
 In the end, all entries were deduplicated.
 
-## Overview
+## Statistics
 | Description | Stat |
 |-------------|------|
 | Number of users | 1,800,529 |
 | Number of tweets | 1,711,584 |
 | Number of tweet interactions | 7,233,955 |
+
+## Interactions
+| Interaction | Id |
+|-------------|----|
+| Tweet (author) | 0 |
+| Favorite | 1 |
+| Retweet | 2 |
