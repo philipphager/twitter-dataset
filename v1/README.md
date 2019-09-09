@@ -16,6 +16,7 @@ In the end, all entries were deduplicated.
 | Number of users | 1,800,529 |
 | Number of tweets | 1,711,584 |
 | Number of tweet interactions | 7,233,955 |
+| Size (MB) | 191.4 |
 
 ## Interactions
 | Interaction | Id |
